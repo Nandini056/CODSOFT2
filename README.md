@@ -15,7 +15,6 @@ A motivational Quote App built with Flutter that delivers daily inspiration, all
 - **Language:** Dart
 - **IDE:** Android Studio
 
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
