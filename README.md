@@ -1,16 +1,30 @@
-# quote_app
+# Quote App 
 
-A new Flutter project.
+A motivational Quote App built with Flutter that delivers daily inspiration, allows users to save favorites, and easily share quotes with friends.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🌟 **Inspiring Quotes:** Displays a new motivational quote every day.
+- ❤️ **Favorite Quotes:** Save and revisit your favorite quotes anytime.
+- 📤 **Share with Friends:** Easily share quotes via social media or messaging apps.
+- 🎨 **User-Friendly Design:** Clean and intuitive interface for an enhanced user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter
+- **Language:** Dart
+- **IDE:** Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+- **Nandini Sharma**
+- [GitHub Profile](https://github.com/Nandini056)
